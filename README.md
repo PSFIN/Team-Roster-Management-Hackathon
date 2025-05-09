@@ -8,6 +8,8 @@ Create a **team roster management dashboard** that:
 - Allows for the easy creation and modification of weekly schedules.
 - Visualizes shifts clearly, even when multiple people are working at the same time.
 - Allows for comparison between planned schedules and actual working hours.
+- **Stores previous week's data** and allows it to be accessed or viewed at any time (e.g., for historical reference).
+- Provides an **easy-to-read summary** of total working hours allocated per department or employee. This should allow managers to easily track work hours for each department.
 
 ## Timeline
 - **Hackathon Starts**: Today
